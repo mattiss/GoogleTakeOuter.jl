@@ -7,6 +7,7 @@ version = "1.0.0-DEV"
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+NativeFileDialog = "e1fe445b-aa65-4df4-81c1-2041507f0fd4"
 ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
 
 [compat]
